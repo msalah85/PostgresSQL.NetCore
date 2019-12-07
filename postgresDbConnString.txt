@@ -1,0 +1,10 @@
+http://127.0.0.1:57124/
+postgres://123456@127.0.0.1:5432/testDb
+
+---------------------
+
+Password=123456;Username=postgres;Database=testDb;Port=5432;Host=127.0.0.1;Persist Security Info=True
+
+----------------------
+
+"MyWebApiConection": "Password=123456;Username=postgres;Database=testDb;Port=5432;Host=127.0.0.1;Persist Security Info=True;"
